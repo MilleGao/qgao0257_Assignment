@@ -1,0 +1,4 @@
+git config --global user.name "Mille Gao"
+git config --global user.email qgao0257@uni.sydney.edu.au
+
+https://github.com/MilleGao/qgao0257Assignment.git
